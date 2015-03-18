@@ -29,6 +29,9 @@ data-files:     template/*.dat.st
                 modelrepo/ADMXUDD112/*.dat
                 modelrepo/ADMXUDD112degen/*.py
                 modelrepo/ADMXUDD112degen/*.dat
+                modelrepo/Axino/*.py
+                modelrepo/GldGrv/*.py
+                modelrepo/RPVMSSM/*.py
  
 
 Library
@@ -58,6 +61,9 @@ Library
                    HEP.Automation.MadGraph.Model.ADMXQLDlight
                    HEP.Automation.MadGraph.Model.ADMXUDD112
                    HEP.Automation.MadGraph.Model.ADMXUDD112degen
-                   HEP.Automation.MadGraph.Model.LeptoQuark1                   
+                   HEP.Automation.MadGraph.Model.LeptoQuark1         
+                   HEP.Automation.MadGraph.Model.Axino     
+                   HEP.Automation.MadGraph.Model.GldGrv   
+                   HEP.Automation.MadGraph.Model.RPVMSSM          
                    Paths_madgraph_auto_model
                    
